@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "499981748927",
+    "firebase_url": "https://hagertyremoteconfigpoc.firebaseio.com",
+    "project_id": "hagertyremoteconfigpoc",
+    "storage_bucket": "hagertyremoteconfigpoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499981748927:android:cc94ce937a24af779f140a",
+        "android_client_info": {
+          "package_name": "com.hagerty.flutterfirebaseremoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499981748927-tn1dn1nl9vq5eo92pq40svohc17smg7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hagerty.flutterfirebaseremoteconfig",
+            "certificate_hash": "85ddf2feb879c5b3cfdeeed1b512788f6a5ad6d5"
+          }
+        },
+        {
+          "client_id": "499981748927-ipo56slmkqftlqb1gd5tfipii3f5k3c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC3bTyDisNkwnRyxg8KXpjVWxoHvLml70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499981748927-ipo56slmkqftlqb1gd5tfipii3f5k3c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
